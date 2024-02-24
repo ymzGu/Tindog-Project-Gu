@@ -87,11 +87,15 @@
   border-color: black;
 }
 
-.Labrador{
+button.Labrador{
   background-color: #212529;
+  border-color: #212529;
 }
 .border-primary{
   border-color: #212529 !important;
+}
+button.Mastiff{
+  border-color: #212529;
 }
 .Mastiff{
   background-color: #212529 !important;
